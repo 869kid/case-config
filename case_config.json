@@ -1,0 +1,166 @@
+{
+    "Самый Обычный Кейс": {
+        "case_tech_name": "usual_basic_case",
+        "groups": {
+            "group_1": {
+                "group_chance": 0.25,
+                "rewards": [
+                    {
+                        "item_tech_name": "Софта",
+                        "type": "soft",
+                        "parameters": {
+                            "count": 5000,
+                            "item_id": "os_bucks",
+                            "chance": 0.25
+                        }
+                    },
+                    {
+                        "item_tech_name": "Сальса",
+                        "type": "dance",
+                        "parameters": {
+                            "count": 1,
+                            "item_id": "id_ 111",
+                            "chance": 0.1
+                        }
+                    },
+                    {
+                        "item_tech_name": "Киберниндзя",
+                        "type": "character",
+                        "parameters": {
+                            "count": 1,
+                            "item_id": "id_ 290",
+                            "chance": 0.1
+                        }
+                    },
+                    {
+                        "item_tech_name": "Пират",
+                        "type": "character",
+                        "parameters": {
+                            "count": 1,
+                            "item_id": "id_ 49",
+                            "chance": 0.15
+                        }
+                    },
+                    {
+                        "item_tech_name": "Огненный Молот",
+                        "type": "weapon",
+                        "parameters": {
+                            "count": 2,
+                            "item_id": "id_ 158",
+                            "chance": 0.15
+                        }
+                    },
+                    {
+                        "item_tech_name": "Лимонад",
+                        "type": "consum",
+                        "parameters": {
+                            "count": 5,
+                            "item_id": "id_ 161",
+                            "chance": 0.05
+                        }
+                    },
+                    {
+                        "item_tech_name": "Горячий Суп в Консерве",
+                        "type": "consum",
+                        "parameters": {
+                            "count": 10,
+                            "item_id": "id_ 585",
+                            "chance": 0.2
+                        }
+                    }
+                ]
+            },
+            "group_2": {
+                "group_chance": 0.15,
+                "rewards": [
+                    {
+                        "item_tech_name": "Песчаная Граната",
+                        "type": "weapon",
+                        "parameters": {
+                            "count": 4,
+                            "item_id": "id_ 113",
+                            "chance": 0.3
+                        }
+                    },
+                    {
+                        "item_tech_name": "Ангел",
+                        "type": "character",
+                        "parameters": {
+                            "count": 1,
+                            "item_id": "id_ 308",
+                            "chance": 0.3
+                        }
+                    },
+                    {
+                        "item_tech_name": "Дьявол",
+                        "type": "character",
+                        "parameters": {
+                            "count": 1,
+                            "item_id": "id_ 466",
+                            "chance": 0.3
+                        }
+                    },
+                    {
+                        "item_tech_name": "Твист",
+                        "type": "dance",
+                        "parameters": {
+                            "count": 1,
+                            "item_id": "id_ 132",
+                            "chance": 0.1
+                        }
+                    }
+                ]
+            },
+            "group_3": {
+                "group_chance": 0.6,
+                "rewards": [
+                    {
+                        "item_tech_name": "Современный детектив",
+                        "type": "character",
+                        "parameters": {
+                            "count": 1,
+                            "item_id": "id_ 610",
+                            "chance": 0.3
+                        }
+                    },
+                    {
+                        "item_tech_name": "Харда",
+                        "type": "hard",
+                        "parameters": {
+                            "count": 250,
+                            "item_id": "os_coins",
+                            "chance": 0.15
+                        }
+                    },
+                    {
+                        "item_tech_name": "Плазменный Меч",
+                        "type": "weapon",
+                        "parameters": {
+                            "count": 1,
+                            "item_id": "id_ 574",
+                            "chance": 0.15
+                        }
+                    },
+                    {
+                        "item_tech_name": "Антидот",
+                        "type": "consum",
+                        "parameters": {
+                            "count": 45,
+                            "item_id": "id_ 273",
+                            "chance": 0.15
+                        }
+                    },
+                    {
+                        "item_tech_name": "Твист",
+                        "type": "dance",
+                        "parameters": {
+                            "count": 1,
+                            "item_id": "id_ 132",
+                            "chance": 0.25
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
